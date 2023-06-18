@@ -1,5 +1,5 @@
 {
-  "name": "GenrateYearlyReport",
+  "name": "YearlyGenrateReport",
   "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
@@ -44,42 +44,42 @@
     "fileInfoCollection": [
       {
         "editingStatus": "InProgress",
-        "testCaseId": "4f4cac9c-956d-4c8a-8184-9a4946b6a936",
+        "testCaseId": "61fb2d1e-9eb5-46bd-ba2d-3b8953e52053",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\GetTransactionDataTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "1dde3cab-5f39-40e4-9d37-0c3b961b52b5",
+        "testCaseId": "5358af62-a4fa-44b1-8190-0878c45d2cf2",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "cc6fe63d-57fa-425d-bfde-ce5aa27c402e",
+        "testCaseId": "4e9a5b1c-89bb-41b2-9284-0cd9dde0f7f6",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\InitAllSettingsTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "5c5a27ea-fb35-4b06-9778-0e5b6e219ac2",
+        "testCaseId": "a5944f0e-2a83-4127-993a-0fba5f75d3ab",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\MainTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "a40835af-909d-4e89-8bc0-1063afa539ef",
+        "testCaseId": "eb13d0a3-f880-40eb-934d-5de570f1eab0",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\ProcessTestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "255fc1df-4eb0-4d1f-96f8-d1513e01d4f8",
+        "testCaseId": "221118e0-a17c-4f78-8a58-f9a92a101176",
         "testCaseType": "TestCase",
         "executionTemplateType": "Local",
         "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
@@ -91,7 +91,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "3b1d3e72-ecdb-49f7-8891-cf52ea06c0f6",
+      "uniqueId": "996a27f0-2ff2-4919-b835-c74200957dcc",
       "input": [],
       "output": []
     }
